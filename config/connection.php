@@ -6,7 +6,8 @@
  * Author: Moin Uddin
  */
  
-define("BASE","https://dinocommerce.com/double-op");
+define("BASE","http://localhost/double-op");
+define("TITLE","DOUBLE OP");
 define("SPICE","ydtfm~");
 define("START", 2);
 define("DB_NAME", "double-op");
